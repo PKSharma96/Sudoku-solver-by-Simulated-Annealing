@@ -29,5 +29,3 @@ If you want to contribute to this project, there are several ways you can do so:
 ## About
 As a computer science student in my third year, second semester, I have been assigned the task of implementing a local search algorithm for solving Sudoku puzzles as part of my artificial intelligence subject. This assignment has sparked my interest, leading me to incorporate it into a web application.
  
-## License
-This project is licensed under the [MIT License](LICENSE).
